@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.acinq</groupId>
+  <artifactId>viacoin-lib_2.11</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.18-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181015145358</lastUpdated>
+  </versioning>
+</metadata>
