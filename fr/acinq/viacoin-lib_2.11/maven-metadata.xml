@@ -4,8 +4,8 @@
   <artifactId>viacoin-lib_2.11</artifactId>
   <versioning>
     <versions>
-      <version>0.9.18-SNAPSHOT</version>
+      <version>0.12-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181020020719</lastUpdated>
+    <lastUpdated>20190425131945</lastUpdated>
   </versioning>
 </metadata>
